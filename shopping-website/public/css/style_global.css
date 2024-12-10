@@ -1,0 +1,12 @@
+/* Navbar */
+
+@media screen and (min-width: 0) and (max-width: 782px) {
+    li.nav-item {
+        width: 20%!important;
+        transition: all .3s ease-in-out;
+        display: inline-block!important;
+        margin-bottom: 10px!important;
+    }
+}
+
+
